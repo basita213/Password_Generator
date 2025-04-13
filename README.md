@@ -9,7 +9,7 @@ This is a simple Python script that generates random passwords based on user inp
 
 ## How to Use
 1. Clone this repository.
-2. Run the `Pass_Gen.py` file in your Python environment.
+2. Run the `PassGen.py` file in your Python environment.
 3. Follow the prompts to specify how many characters you want and if you want special characters.
 
 ## Requirements
